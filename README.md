@@ -39,3 +39,5 @@ Source code behind the paper [arXiv link] and my thesis [link]. It computes the 
 -Composite orders
 
 -Implement Schoof's algorithm
+
+-Elliptic curves over extensions of F_q[t]
