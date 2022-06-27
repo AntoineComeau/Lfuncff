@@ -19,7 +19,7 @@ Source code behind the paper [arXiv link] and my thesis [link]. It computes the 
 
 **Factoring: OK**                    (factorization of primes over F_p^n successfully constructed)
 
-**alpha: 25,24,28,4,20,12,0,1**      (representative for alpha, it reads as (25+24e^(2*i*pi/7)+28e^(4*i*pi/7)+4e^(6*i*pi/7)+20e^(8*i*pi/7)+12e^(10*i*pi/7)+0e^(12*i*pi/7)/29^1)
+**alpha: 25,24,28,4,20,12,0,1**      (representative for alpha, it reads as (25+24e^(2\*i\*pi/7)+28e^(4\*i\*pi/7)+4e^(6\*i\*pi/7)+20e^(8\*i\*pi/7)+12e^(10\*i\*pi/7)+0e^(12\*i\*pi/7)/29^1)
 
 **rank 0: 2512**                     (number of curves with rank 0)
 
