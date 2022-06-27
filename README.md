@@ -2,11 +2,11 @@
 Source code behind the paper [arXiv link] and my thesis [link]. It computes the L-functions of twisted elliptic curves over finite fields and goes through all conductors of a given degree. PrincipalLegendre computes the twists of y^2=x(x-1)(x-t), PrincipalDavid computes the twists of y^2=(x-1)(x-2t^2-1)(x-t^2), and PrincipalDirichlet computes the twists of P^1.
 
 # Instructions
--Works best with Eclipse: https://www.eclipse.org/.
+-Works best with Eclipse: https://www.eclipse.org/
 
--Settings can be changed after "public static void main(String args[])".
+-Settings can be changed after "public static void main(String args[])"
 
--The code is unoptimized, messy, and lack comments. Please contact antoine[dot]comeau-lapointe[at]concordia[dot]ca for support.
+-The code is unoptimized, messy, and lack comments. Please contact antoine[dot]comeau-lapointe[at]concordia[dot]ca for support
 
 # Console output interpretation example (using p=29;d=2;ell=7)
 **n=1**                              (degree of field extension of F_p to compute the characters)
