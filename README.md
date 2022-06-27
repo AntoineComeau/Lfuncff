@@ -29,7 +29,7 @@ Source code behind the paper [arXiv link] and my thesis [link]. It computes the 
 
 **cursed:0**                         ----- number of curves that needs the conjecture to be evaluated
 
-**conjecture:true**                  ----- if conjecture on sign of func. eq. is true, Legendre only
+**conjecture:true**                  ----- if conjecture on sign of functional equation is true, Legendre only
 
 **time:1805ms**                      ----- running time
 
