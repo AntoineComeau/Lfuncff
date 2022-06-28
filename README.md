@@ -6,7 +6,7 @@ Source code behind the paper [arXiv link] and my thesis [link]. It computes the 
 
 -Settings can be changed after "public static void main(String args[])"
 
--The code is unoptimized, messy, and lack comments. Please contact antoine[dot]comeau-lapointe[at]concordia[dot]ca for support.
+-The code is unoptimized, messy, and lacks comments. Please contact antoine[dot]comeau-lapointe[at]concordia[dot]ca for support.
 
 # Console output interpretation example (using p=29;d=2;ell=7)
 **n=1**                              ----- degree of field extension of F_p to compute the characters
