@@ -33,7 +33,7 @@ Source code behind the paper [arXiv link] and my thesis [link]. It computes the 
 
 **time:1805ms**                      ----- running time
 
-# Todo
+# To-do
 -Arbitrary elliptic curves
 
 -Composite orders
