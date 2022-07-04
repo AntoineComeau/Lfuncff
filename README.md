@@ -2,9 +2,9 @@
 Source code behind the paper [https://arxiv.org/abs/2207.00197] and my thesis [link]. It computes the L-functions of twisted elliptic curves over rational function fields (F_p[t]) and goes through all conductors of a given degree. PrincipalLegendre computes the twists of y^2=x(x-1)(x-t), PrincipalDavid computes the twists of y^2=(x-1)(x-2t^2-1)(x-t^2), and PrincipalDirichlet computes the twists of P^1.
 
 # Instructions
--Works best with Eclipse: https://www.eclipse.org/
+-Works best under Eclipse: https://www.eclipse.org/
 
--Settings can be changed after "public static void main(String args[])"
+-Settings can be changed after the line "public static void main(String args[])"
 
 -The code is unoptimized, messy, and lacks comments. Please contact antoine[dot]comeau-lapointe[at]concordia[dot]ca for support.
 
@@ -23,13 +23,13 @@ Source code behind the paper [https://arxiv.org/abs/2207.00197] and my thesis [l
 
 **rank 0: 2512**                     ----- number of curves with rank 0
 
-**i root: 0**                        ----- number of curves with i as root
+**i root: 0**                        ----- number of curves with i as root (eigenangle, only for PrincipalDirichlet)
 
 **i root symmetry:true**             ----- testing if having i as a root implies -i as root
 
-**cursed:0**                         ----- when the middle coefficient is zero, need to compute an extra coefficient
+**cursed:0**                         ----- when the middle coefficient is zero, need to compute an extra coefficient in these cases
 
-**conjecture:true**                  ----- true if no conterexamples to the conjecture has been found, PrincipalLegendre only, see Conjecture 4.3.1 in thesis
+**conjecture:true**                  ----- true if no conterexamples of the conjecture has been found, PrincipalLegendre only, see Conjecture 4.3.1 in thesis
 
 **time:1805ms**                      ----- running time
 
