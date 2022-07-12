@@ -29,7 +29,7 @@ Source code behind the computations of the paper [https://arxiv.org/abs/2207.001
 
 **cursed:0**                         ----- when the middle coefficient is zero, need to compute an extra coefficient in these cases
 
-**conjecture:true**                  ----- true if no conterexamples of the conjecture has been found, PrincipalLegendre only, see Conjecture 4.3.1 in thesis
+**conjecture:true**                  ----- true if no conterexamples of the conjecture has been found, PrincipalLegendre only, see conjecture.pdf
 
 **time:1805ms**                      ----- running time
 
