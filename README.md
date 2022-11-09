@@ -6,8 +6,6 @@ Source code behind the computations of the paper [https://arxiv.org/abs/2207.001
 
 -Settings can be changed after the line "public static void main(String args[])"
 
--The code is unoptimized, messy, and lacks comments. Please contact antoine[dot]comeau-lapointe[at]concordia[dot]ca for support.
-
 # Console output interpretation example (using p=29;d=2;ell=7)
 **n=1**                              ----- degree of field extension of F_p to compute the characters
 
