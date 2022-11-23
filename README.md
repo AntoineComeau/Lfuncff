@@ -1,5 +1,5 @@
 # Lfuncff
-Source code behind the computations of the paper [https://arxiv.org/abs/2207.00197] and my thesis [https://spectrum.library.concordia.ca/id/eprint/990968/]. It computes the L-functions of twisted elliptic curves over rational function fields (F_p[t]) and goes through all conductors of a given degree. PrincipalLegendre computes the twists of y^2=x(x-1)(x-t), PrincipalDavid computes the twists of y^2=(x-1)(x-2t^2-1)(x-t^2), and PrincipalDirichlet computes the twists of P^1.
+Source code behind the computations of the paper [https://link.springer.com/article/10.1007/s40993-022-00379-w ; https://arxiv.org/abs/2207.00197] and my thesis [https://spectrum.library.concordia.ca/id/eprint/990968/]. It computes the L-functions of twisted elliptic curves over rational function fields (F_p[t]) and goes through all conductors of a given degree. PrincipalLegendre computes the twists of y^2=x(x-1)(x-t), PrincipalDavid computes the twists of y^2=(x-1)(x-2t^2-1)(x-t^2), and PrincipalDirichlet computes the twists of P^1.
 
 # Instructions
 -Works best under Eclipse: https://www.eclipse.org/
